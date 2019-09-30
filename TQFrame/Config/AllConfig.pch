@@ -1,0 +1,18 @@
+//
+//  AllConfig.pch
+//  yykj
+//
+//  Created by FRJ on 2019/9/16.
+//  Copyright © 2019 yykj. All rights reserved.
+//
+
+#ifndef AllConfig_pch
+#define AllConfig_pch
+
+#import "API.h"
+#import "Config.h"
+#import "Singleton.h"
+#import "HttpConfig.h"
+#import "Header-Config.h"
+
+#endif /* AllConfig_pch */
